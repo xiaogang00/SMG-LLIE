@@ -12,7 +12,7 @@ Moreover, to improve the appearance modeling, which is completed with a simple U
 
 <img src="./paper/framework.png" width="900"/>
 
-[paper link](https://github.com/xiaogang00/SMG-LLIE/blob/main/paper/paper.pdf)
+[paper link](https://arxiv.org/abs/2305.05839)
 
 ## Dataset
 ###LOL datasets
