@@ -1,0 +1,14 @@
+argparse==1.1
+torch==1.10.2+cu113
+torchvision==0.11.3+cu113
+numpy==1.22.4
+imageio==2.19.3
+opencv-python==4.6.0
+tensorboardX
+pyaml
+tqdm==4.46.0
+six==1.16.0
+scikit-image==0.19.3
+scipy==1.7.1
+pillow==9.1.1
+matplotlib==3.5.3
